@@ -5,13 +5,6 @@ import src.main.java.*;
 import org.junit.Test;
 
 public class CounterTest {
-
-	private Counter testCounter;
-
-	@Before
-	public void setUp(){
-		testCounter = new Counter
-	}
 	
 	@Test
 	public void testReset() {
