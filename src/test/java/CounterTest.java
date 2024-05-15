@@ -5,7 +5,7 @@ import src.main.java.*;
 import org.junit.Test;
 
 public class CounterTest {
-
+	
 	@Test
 	public void testReset() {
 		Counter testCounter = new Counter();
